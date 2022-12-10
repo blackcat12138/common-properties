@@ -10,7 +10,7 @@
    <properties>
 	<!-- spring的版本号 -->
 	<tedu.haha>18</tedu.haha>
-	<spring.version>4.3.7.RELEASE</spring.version>
+	<spring.version>6.0.0</spring.version>
 	<!-- mybatis的版本号 -->
 	<mybatis.version>3.4.5</mybatis.version>
 	<!-- log日志管理 -->
